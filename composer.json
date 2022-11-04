@@ -3,8 +3,5 @@
     "description": "Standalone binary CLI executable version of Tailwind CSS for Linux x64, mirror of https://github.com/tailwindlabs/tailwindcss/releases/latest",
     "license": "MIT",
     "homepage": "https://tailwindcss.com/blog/standalone-cli",
-    "bin": "bin/tailwindcss",
-    "config": {
-      "bin-dir": "./"
-    }
+    "bin": "bin/tailwindcss"
 }
