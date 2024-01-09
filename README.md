@@ -1,7 +1,8 @@
-# Use Tailwind CSS without Node.js
+Use Tailwind CSS without Node.js
+================================
 
 This is a patched version of the standalone CLI build of Tailwind CSS for Linux x64 systems, easily installable as a composer package.
-Contrary to the default CLI, this patched version includes also postcss-import and postcss-nested bundled inside the CLI executable.
+Contrary to the default CLI, this patched version also includes postcss-import and postcss-nested bundled inside the CLI executable.
 
 1. Install with `composer require webtourismus/tailwindcss-cli`
 2. Execute with `./vendor/bin/tailwindcss`
